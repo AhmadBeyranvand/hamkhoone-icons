@@ -1,17 +1,17 @@
 {
-  "name": "shabnam-font",
-  "version": "5.0.0",
-  "author": "Saber Rastikerdar",
+  "name": "hamkhoone-icons-font",
+  "version": "0.1.0",
+  "author": "Ahmad Beyranvand",
   "license": "OFL",
-  "description": "A Persian (Farsi) Font - فونت (قلم) فارسی شبنم",
-  "keywords": ["font", "farsi", "persian"],
+  "description": "فونت آیکون‌های مورد نیاز وبسایت املاک همخونه",
+  "keywords": ["font", "font icon"],
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rastikerdar/shabnam-font"
+    "url": "git+https://github.com/AhmadBeyranvand/hamkhoone-icons"
   },
   "bugs": {
-    "url": "https://github.com/rastikerdar/shabnam-font/issues"
+    "url": "https://github.com/AhmadBeyranvand/hamkhoone-icons/issues"
   },
-  "homepage": "https://github.com/rastikerdar/shabnam-font#readme"
+  "homepage": "https://github.com/AhmadBeyranvand/hamkhoone-icons#readme"
 }
