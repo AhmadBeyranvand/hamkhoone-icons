@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'hamkhoone-icons';
+  src: url('HamkhooneIcons.woff') format('woff');
+  font-weight: normal;
+}
+
+.mlk-icon {
+  font-family: 'hamkhoone-icons';
+}
